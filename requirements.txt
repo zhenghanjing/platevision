@@ -1,0 +1,21 @@
+# Core ML
+torch>=2.9
+torchvision>=0.24
+
+# Detection
+ultralytics>=8.4
+
+# Image processing
+opencv-python>=4.13
+pillow>=12.0
+numpy>=2.0
+
+# USDA FoodData Central API + config
+requests>=2.34
+python-dotenv>=1.2
+
+# Web demo
+streamlit>=1.58
+
+# Tests
+pytest>=9.0
