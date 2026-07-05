@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PlateVision: downloaded/generated data, weights, and training runs
+data/raw/
+data/yolo/
+datasets/
+runs/
+*.pt
